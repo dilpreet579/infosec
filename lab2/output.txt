@@ -1,0 +1,18 @@
+Original Text:
+HELLO, THIS IS THE SECOND LAB OF INFOSEC.
+
+
+Caesar Cipher Encryption:
+OLSSV, AOPZ PZ AOL ZLJVUK SHI VM PUMVZLJ.
+
+
+Caesar Cipher Decryption:
+HELLO, THIS IS THE SECOND LAB OF INFOSEC.
+
+
+Substitution Cipher Encryption:
+ITSSG, ZIOL OL ZIT LTEGFR SQW GY OFYGLTE.
+
+
+Substitution Cipher Decryption:
+HELLO, THIS IS THE SECOND LAB OF INFOSEC.
