@@ -1,0 +1,10 @@
+Apr 15 10:42:03 pc sudo: nitdelhi : TTY=pts/1 ; PWD=/home/nitdelhi/231210041 INFOSEC/lab9 ; USER=root ; COMMAND=/usr/bin/grep Failed password /var/log/auth.log
+Apr 15 10:45:25 pc sudo: nitdelhi : TTY=pts/1 ; PWD=/home/nitdelhi/231210041 INFOSEC/lab9 ; USER=root ; COMMAND=/usr/bin/grep -a Failed password /var/log/auth.log
+Apr 15 10:45:38 pc nitdelhi: Failed password for invalid user admin from 192.168.0.45 port 54321 ssh2
+Apr 15 10:45:39 pc nitdelhi: Failed password for root from 192.168.0.45 port 54325 ssh2
+Apr 15 10:45:40 pc nitdelhi: Failed password for root from 192.168.0.88 port 33211 ssh2
+Apr 15 10:45:44 pc sudo: nitdelhi : TTY=pts/1 ; PWD=/home/nitdelhi/231210041 INFOSEC/lab9 ; USER=root ; COMMAND=/usr/bin/grep -a Failed password /var/log/auth.log
+      4 INFOSEC/lab9
+      1 admin
+      1 192.168.0.88
+      1 192.168.0.45
